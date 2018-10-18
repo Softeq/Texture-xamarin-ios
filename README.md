@@ -14,7 +14,10 @@ We specialize in developing mobile applications using Xamarin and native technol
 
 ## Installation
 
-// WIP...
+NuGet:
+```
+Install-Package AsyncDisplayKitBindings
+```
 
 ## Usage
 
