@@ -20,7 +20,7 @@ steps:
   inputs:
     command: pack
 
-    packagesToPack: '**/Softeq.ImagePicker.csproj'
+    packagesToPack: '**/AsyncDisplayKitBindings.csproj'
 
 
 - task: CopyFiles@2
