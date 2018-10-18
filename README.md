@@ -14,7 +14,10 @@ We specialize in developing mobile applications using Xamarin and native technol
 
 ## Installation
 
-// WIP...
+NuGet:
+```
+Install-Package AsyncDisplayKitBindings
+```
 
 ## Usage
 
@@ -26,3 +29,4 @@ We specialize in developing mobile applications using Xamarin and native technol
 Texture binding library for iOS is released under the MIT license. See [LICENSE](LICENSE) for details.
 
 The original Texture project was created by Pinterest as a continuation, under a different name and [license](https://github.com/texturegroup/texture/blob/master/LICENSE) (Apache 2.0), of the [AsyncDisplayKit](https://github.com/facebookarchive/AsyncDisplayKit) codebase originally developed by Facebook.
+
