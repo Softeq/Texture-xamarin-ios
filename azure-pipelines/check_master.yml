@@ -21,20 +21,3 @@ steps:
     command: pack
 
     packagesToPack: '**/AsyncDisplayKitBindings.csproj'
-
-
-- task: CopyFiles@2
-  displayName: 'Copy Files to: $(Build.ArtifactStagingDirectory)'
-  inputs:
-    Contents: '**/*.nupkg'
-
-    TargetFolder: '$(Build.ArtifactStagingDirectory)'
-
-  enabled: false
-
-- task: PublishBuildArtifacts@1
-  displayName: 'Publish Artifact: drop'
-
-  enabled: false
-
-
