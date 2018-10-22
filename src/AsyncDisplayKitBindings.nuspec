@@ -2,9 +2,9 @@
 <package >
   <metadata>
     <id>$id$</id>
-    <version>$version$</version>
+    <version>2.5.1</version>
     <title>Texture for Xamarin.iOS</title>
-    <authors>$author$</authors>
+    <authors>Softeq Development Corp.</authors>
     <owners>$author$</owners>
     <licenseUrl>https://github.com/Softeq/Texture-xamarin-ios/blob/master/LICENSE</licenseUrl>
     <projectUrl>https://github.com/Softeq/Texture-xamarin-ios</projectUrl>
