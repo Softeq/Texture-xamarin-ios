@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <package >
   <metadata>
-    <id>AsyncDisplayKitBindings</id>
-    <version>2.5.0</version>
+    <id>$id$</id>
+    <version>$version$</version>
     <title>Texture for Xamarin.iOS</title>
-    <authors>Softeq Development Corp.</authors>
-    <owners>Softeq Development Corp.</owners>
+    <authors>$author$</authors>
+    <owners>$author$</owners>
     <licenseUrl>https://github.com/Softeq/Texture-xamarin-ios/blob/master/LICENSE</licenseUrl>
     <projectUrl>https://github.com/Softeq/Texture-xamarin-ios</projectUrl>
     <iconUrl>https://raw.githubusercontent.com/Softeq/Texture-xamarin-ios/master/images/icon.png</iconUrl>
@@ -13,9 +13,6 @@
     <description>Xamarin iOS binding library of Texture - iOS framework built on top of UIKit that keeps even the most complex user interfaces smooth and responsive.</description>
     <copyright>Copyright 2018 Softeq Development Corp.</copyright>
     <tags>asyncdisplaykit texture ios xamarin binding softeq library uikit ui framework</tags>
-    <releaseNotes>Texture iOS v2.5.0</releaseNotes>
+    <releaseNotes>Texture iOS $version$</releaseNotes>
   </metadata>
-  <files>
-    <file src="bin/Release/AsyncDisplayKitBindings.dll" target="lib/Xamarin.iOS10/AsyncDisplayKitBindings.dll" />
-  </files>
 </package>
