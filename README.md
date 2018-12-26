@@ -2,7 +2,7 @@
 
 ![Texture](https://github.com/texturegroup/texture/raw/master/docs/static/images/logo.png)
 
-[![Build Status](https://dev.azure.com/VladimirSverzhinsky/Texture-xamarin-ios/_apis/build/status/Check%20Master%20Branch)](https://dev.azure.com/VladimirSverzhinsky/Texture-xamarin-ios/_build/latest?definitionId=7) [![NuGet Badge](https://buildstats.info/nuget/AsyncDisplayKitBindings)](https://www.nuget.org/packages/AsyncDisplayKitBindings/)
+[![Build Status](https://dev.azure.com/SofteqDevelopment/Texture-xamarin-ios/_apis/build/status/Check%20Master%20Branch?branchName=master)](https://dev.azure.com/SofteqDevelopment/Texture-xamarin-ios/_build/latest?definitionId=2?branchName=master) [![NuGet Badge](https://buildstats.info/nuget/AsyncDisplayKitBindings)](https://www.nuget.org/packages/AsyncDisplayKitBindings/)
 
 A Xamarin.iOS binding library for [Texture](https://github.com/TextureGroup/Texture) library v2.5.
 
