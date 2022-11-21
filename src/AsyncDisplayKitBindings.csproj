@@ -32,10 +32,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <None Update="AsyncDisplayKit.framework/**" Visible="False" />
-  </ItemGroup>
-
-  <ItemGroup>
     <NativeReference Include="AsyncDisplayKit.framework">
       <Kind>Framework</Kind>
       <SmartLink>False</SmartLink>
