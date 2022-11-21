@@ -905,7 +905,7 @@ namespace AsyncDisplayKitBindings
         MinimumY = 1 << 1,
         MinimumXY = ASCenterLayoutSpecSizingOptions.MinimumX | ASCenterLayoutSpecSizingOptions.MinimumY
     }
-  
+
     [Native]
     public enum ASAbsoluteLayoutSpecSizing : long
     {
