@@ -28,14 +28,8 @@
   </ItemGroup>
   <ItemGroup>
     <InterfaceDefinition Update="*.storyboard" />
-    <ImageAsset Update="Assets.xcassets\Contents.json">
-      <Link>Assets.xcassets\Contents.json</Link>
-    </ImageAsset>
-    <ImageAsset Update="Assets.xcassets\AppIcon.appiconset\Contents.json">
-      <Link>Assets.xcassets\AppIcon.appiconset\Contents.json</Link>
-    </ImageAsset>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\src\AsyncDisplayKitBindings.csproj" />
+    <ProjectReference Include="..\src\AsyncDisplayKitBindings.csproj" />
   </ItemGroup>
 </Project>
